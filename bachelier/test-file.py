@@ -121,16 +121,21 @@ def afficher(n):
             print('cet candidat appartiene au groupe Tranche 3')
 
 """ partie d'addministration """
+
 # pour remplir la liste des bachellier par l'administration:
  ##  for i in range(int(input('entrer le nmbre total des bachellier pour les enregestrer\n'))):
  ##    student=Bachellier()
  ##   student.saisir()
-#partie test:
+
 """ il faut d'abord replir la listes avec les bachelleir avant d'exécuter le reste du code
  sinn sa sert a rien car les fichier vont etre vide
 """
+############
+### test ###
+############
+
 #student=Bachellier()
-formule_Gen()
-classer()
-generer()
-afficher(1111)
+#formule_Gen()
+#classer()
+#generer()
+#afficher(1111)
